@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "lerna": "^3.22.1"
+  },
+  "name": "css-in-js-perf",
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}
